@@ -1,0 +1,10 @@
+# 工作区/系统临时文件
+.workbuddy/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 依赖与构建产物（本项目实际不需要，仅作防范）
+node_modules/
+dist/
+*.log
